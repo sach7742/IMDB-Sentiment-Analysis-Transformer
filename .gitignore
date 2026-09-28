@@ -1,0 +1,8 @@
+aclImdb/
+aclImdb_v1.tar.gz
+Transformer for Movie review Sentiment.py
+first_
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
